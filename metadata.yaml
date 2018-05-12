@@ -1,0 +1,30 @@
+_repo: Virginia-s-Attitude-Toward-Slavery-and-Secession_46026
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46026-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Munford, Beverley B. (Beverley Bland)
+    alias: Munford, Beverley Bland
+    birthdate: 1856
+    deathdate: 1910
+    gutenberg_agent_id: '43580'
+    url: http://www.gutenberg.org/2009/agents/43580
+description: ''
+gutenberg_issued: '2014-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46026'
+  lccn: '69016579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Virginia'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'Virginia -- Politics and government -- 1861-1865'
+- !lcc 'E456'
+title: Virginia's Attitude Toward Slavery and Secession
+url: http://www.gutenberg.org/ebooks/46026
